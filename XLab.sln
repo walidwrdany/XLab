@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XLab.Web", "XLab\XLab.Web.csproj", "{417D863C-AE0A-4D60-B5AA-9E40A3834E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XLab.Web", "XLab.Web\XLab.Web.csproj", "{417D863C-AE0A-4D60-B5AA-9E40A3834E57}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XLab.Data", "XLab.Data\XLab.Data.csproj", "{DAAE65D3-12D2-497B-814F-D35FB66601BE}"
 EndProject
